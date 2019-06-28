@@ -1,2 +1,0 @@
-# AndyWeather
-Created with CodeSandbox
