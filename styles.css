@@ -1,0 +1,16 @@
+body {
+  background: green;
+  margin: 0;
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 100%;
+  grid-template-rows: 1fr auto 50%;
+}
+
+body * {
+  justify-self: center;
+}
+
+#intro {
+  align-self: end;
+}
